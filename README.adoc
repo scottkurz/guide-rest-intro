@@ -21,7 +21,7 @@
 :page-seo-title: Building a simple RESTful Java microservice using JAX-RS and JSON-B
 :page-seo-description: A getting started tutorial with examples of how to create a RESTful Java microservice in Open Liberty using the Java API for RESTful Web Services (JAX-RS) and JSON Binding (JSON-B).
 :common-includes: https://raw.githubusercontent.com/OpenLiberty/guides-common/master
-= Creating a RESTful web service
+Creating a RESTful web service
 
 [.hidden]
 NOTE: This repository contains the guide documentation source. To view the guide in published form, view it on the https://openliberty.io/guides/{projectid}.html[Open Liberty website].
